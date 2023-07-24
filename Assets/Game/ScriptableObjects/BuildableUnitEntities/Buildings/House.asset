@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac20e6df64c01af4297bd066ccfb0806, type: 3}
+  m_Name: House
+  m_EditorClassIdentifier: 
+  entityType: 0
+  isEntityPreviewable: 1
+  isEntityManufacturer: 0
+  manufactureType: 3
+  entityName: House
+  entityInfo: 'It enables the population to grow and ensures their living standards
+    within prosperity. '
+  productSprite: {fileID: 21300000, guid: 0c2d5bba30d19d14fb8b078ecf03492e, type: 3}
+  previewSprite: {fileID: -2147240393, guid: c9c65ca89814d924baca2ecdd500fd5a, type: 3}
+  infoSprite: {fileID: 21300000, guid: d47437cccf73b0645b48cddd4594054c, type: 3}
+  entityPrefab: {fileID: 427953127004125935, guid: 7ec2a49857e46e642ac9e8188bfbb90b, type: 3}
+  width: 2
+  height: 2
+  entityMaxHealth: 25

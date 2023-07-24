@@ -1,0 +1,125 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UIAtlas1
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 2339558870709b742b44a1aab02adff9, type: 3}
+    - {fileID: 102900000, guid: c8a4e6d641068ce43b3642e05b763fab, type: 3}
+    - {fileID: 102900000, guid: 9b5420a5ddb6dfe49a1beebfab427b2e, type: 3}
+    - {fileID: 102900000, guid: 139a4b397f3ffe14c9a357763f049600, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: -1799104671, guid: add4ce008d0db3c4387fff99e57e9f70, type: 3}
+  - {fileID: -739757833, guid: 65fee1c0b0fe0b441bea5fb1edf9f567, type: 3}
+  - {fileID: 21300000, guid: f6177df01902f41489d8b9ae47cd7f64, type: 3}
+  - {fileID: 21300000, guid: 58d3e621bd9401344ac619e2a8cad30d, type: 3}
+  - {fileID: 21300000, guid: 5e0b43b299f821b4385566f7ec815aed, type: 3}
+  - {fileID: -1295750437, guid: a8aa0353f309822499e5f28140307240, type: 3}
+  - {fileID: 21300000, guid: cf4693a365bf6c94eaf9fe42b9521a61, type: 3}
+  - {fileID: 21300000, guid: 62f096b3bcc2c4f4b900f7436bb567f6, type: 3}
+  - {fileID: 21300000, guid: 711358b3cd74224459ad45dd1b866d34, type: 3}
+  - {fileID: 21300000, guid: 35dfec84fdd11c646b9162747fce03fb, type: 3}
+  - {fileID: 21300000, guid: 0f5dbf945f190104bbf3377279fb27c8, type: 3}
+  - {fileID: 21300000, guid: 2b5e20d47defb424f888a864e2d1a949, type: 3}
+  - {fileID: 21300000, guid: 3602c315ed44ed4438833084bf1c121e, type: 3}
+  - {fileID: 21300000, guid: 3dcae516f6bc8fb46802efde607ecf85, type: 3}
+  - {fileID: 21300000, guid: 0d966c161b278b044b08d31545d3447b, type: 3}
+  - {fileID: 21300000, guid: f352ffb73e846c447937e7e8e97583a7, type: 3}
+  - {fileID: 21300000, guid: d4425b48b047cc0439c16949ad571277, type: 3}
+  - {fileID: 21300000, guid: 746b10a80ce9a304d92ddd7ce4d804b9, type: 3}
+  - {fileID: 21300000, guid: dcf43bc8459f6f94db3026ad2ea23b5e, type: 3}
+  - {fileID: 21300000, guid: cfcd3949975d65f48ba3b125678cc593, type: 3}
+  - {fileID: -968579726, guid: 8e461d49fee74bf4bb2a5b98c989e043, type: 3}
+  - {fileID: 21300000, guid: ebe99a0a0712e504397e458306b8508b, type: 3}
+  - {fileID: 21300000, guid: 50d2d96a42f150842a33897526495e14, type: 3}
+  - {fileID: 21300000, guid: 474fca7a35c72e34b89d969798277e06, type: 3}
+  - {fileID: 21300000, guid: 0c2d5bba30d19d14fb8b078ecf03492e, type: 3}
+  - {fileID: 21300000, guid: b80197dae0e3b7148bd4114dfad99ff8, type: 3}
+  - {fileID: -1096005558, guid: 1bde38fa1b94e7744ba4212e8f9b8c6d, type: 3}
+  - {fileID: 21300000, guid: d47437cccf73b0645b48cddd4594054c, type: 3}
+  - {fileID: 21300000, guid: 93401b8da1c402046ac3d6b8a81ed0f3, type: 3}
+  - {fileID: 21300000, guid: ec2adf3ea09356249bd413979fc5cf93, type: 3}
+  - {fileID: 21300000, guid: 7e09691f06ae196439731732603906a7, type: 3}
+  - {fileID: 21300000, guid: 17a91dbfcd556db43a30f9d63f6163d2, type: 3}
+  - {fileID: 1329598046, guid: bc5f71ef59e1c3e47b17ce1ce64e00f5, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Panel_General_0
+  - Panel_TransparentBG_Beveled_0
+  - Image_Castle
+  - Icon_Mill
+  - Image_Mill
+  - TextPanel_Production_0
+  - Bar_HealthEnemy
+  - Icon_Spearman
+  - Image_Barracks
+  - Image_Tent
+  - Icon_Knight
+  - Button_Destruction
+  - Button_SoldierPlacement
+  - Button_Building
+  - Icon_Barracks
+  - Image_Paladin
+  - Icon_AttackDamage
+  - Image_Spearman
+  - Icon_Castle
+  - Image_Knight
+  - Bar_HealthFrame_0
+  - Panel_Header
+  - Icon_BuildingSize
+  - Icon_Tent
+  - Icon_House
+  - Panel_TransparentBG
+  - Button_Production_0
+  - Image_House
+  - Button_Exit
+  - Icon_Building
+  - Icon_Paladin
+  - Panel_PopUp
+  - Bar_HealthAlly_0
+  m_RenderDataMap: {}
+  m_Tag: UIAtlas1
+  m_IsVariant: 0

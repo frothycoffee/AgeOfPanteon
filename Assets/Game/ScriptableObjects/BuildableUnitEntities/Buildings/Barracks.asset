@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac20e6df64c01af4297bd066ccfb0806, type: 3}
+  m_Name: Barracks
+  m_EditorClassIdentifier: 
+  entityType: 0
+  isEntityPreviewable: 1
+  isEntityManufacturer: 1
+  manufactureType: 2
+  entityName: Barracks
+  entityInfo: It is the center where military units are trained and developed.
+  productSprite: {fileID: 21300000, guid: 0d966c161b278b044b08d31545d3447b, type: 3}
+  previewSprite: {fileID: -1341621332, guid: d01c023bc1fb44042a1a0aad821c86af, type: 3}
+  infoSprite: {fileID: 21300000, guid: 711358b3cd74224459ad45dd1b866d34, type: 3}
+  entityPrefab: {fileID: 427953127004125935, guid: 135432a5a39b4fa4083698eefbee23d0, type: 3}
+  width: 4
+  height: 4
+  entityMaxHealth: 100

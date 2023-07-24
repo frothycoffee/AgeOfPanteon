@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac20e6df64c01af4297bd066ccfb0806, type: 3}
+  m_Name: Castle
+  m_EditorClassIdentifier: 
+  entityType: 0
+  isEntityPreviewable: 1
+  isEntityManufacturer: 0
+  manufactureType: 1
+  entityName: Castle
+  entityInfo: After necessary enhancements are made, a Commander can be deployed.
+    The Commander enables more organized and mobile management of the troops.
+  productSprite: {fileID: 21300000, guid: dcf43bc8459f6f94db3026ad2ea23b5e, type: 3}
+  previewSprite: {fileID: 266630665, guid: b0f41796662fd214088e7e4bbc901d8c, type: 3}
+  infoSprite: {fileID: 21300000, guid: f6177df01902f41489d8b9ae47cd7f64, type: 3}
+  entityPrefab: {fileID: 427953127004125935, guid: e227ce35e36d2b948ad5cef99e121337, type: 3}
+  width: 8
+  height: 8
+  entityMaxHealth: 200
